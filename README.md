@@ -1,2 +1,2 @@
 # PHP
-php - mysql
+### PHP ile MYSQL veri tabanında işlemler.
